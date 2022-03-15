@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CYB84
 - 👀 I’m interested in Pentesting 💻
-- 🌱 I’m currently learning Webapp Pentesting
+- 🌱 I’m currently learning Web Application Pentesting
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
